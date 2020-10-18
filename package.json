@@ -1,0 +1,17 @@
+{
+  "name": "fast-scroll-firefox",
+  "version": "0.0.1",
+  "description": "Nyoom though pages!",
+  "scripts": {
+    "dev": "webextension-toolbox dev",
+    "build": "webextension-toolbox build"
+  },
+  "devDependencies": {
+    "webextension-toolbox": "latest",
+    "autoprefixer": "^10.0.1",
+    "postcss-cli": "^8.1.0",
+    "tailwindcss": "^1.9.4"
+  },
+  "dependencies": {
+  }
+}

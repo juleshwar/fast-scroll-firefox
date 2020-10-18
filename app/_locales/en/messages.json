@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Fast Scroll",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "Fast Scroll",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Nyoom though pages!",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Fast Scroll",
+    "description": "The title of the browser action button"
+  }
+}
