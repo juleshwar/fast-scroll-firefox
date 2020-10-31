@@ -1,7 +1,9 @@
 {
   "name": "fast-scroll-firefox",
   "version": "0.0.1",
-  "description": "Nyoom though pages!",
+  "author": "Juleshwar Babu <bjuleshwar@gmail.com>",
+  "repository": "https://github.com/juleshwar/fast-scroll-firefox/",
+  "description": "Scroll quickly through pages with the press of a button",
   "scripts": {
     "dev": "webpack --mode development --config webpack.dev.js",
     "build": "webpack --mode production --config webpack.prod.js"
